@@ -1,4 +1,5 @@
 public class Binary_Search {
+    //FInd the given number in the array using binary search{cuz it's in Ascending order or Descending}
     public static void main(String[] args) {
         // find the target element using binary search
         int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11};
